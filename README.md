@@ -6,7 +6,7 @@ I love meeting new people, and working/learning with other developers. I believe
 
 ## Projects
 
-**BookClub** |[repo]|(https://github.com/Mari-8/BookClub/tree/master)  
+**BookClub** |[repo](https://github.com/Mari-8/BookClub/tree/master)|
 A personal application for tracking books, personalizing their categorization, and hosting/joining discussions.
 
 **ChandlerTrack** [repo](https://github.com/Mari-8/ChandlerTrack/tree/master)  
