@@ -1,5 +1,5 @@
 ![Profile views](https://gpvc.arturio.dev/Mari-8)
-```
+```go
 my_name: Ryan Altimari
 location: Nashville, TN
 born_then_raised: { Phillidelphia => Tennessee }
