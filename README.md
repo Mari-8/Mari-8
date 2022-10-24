@@ -15,8 +15,6 @@ bread_and_butter: [
   "HTML/CSS"
 ]
 
-!WIP!
-
 biggest_interests: ["Continuous Learning", "New Technology", "Advances in Space and Science", "Fitness"]
 current_focus: ["Ruby on Rails", "Computer Science"]
 next_focus: ["JavaScript", "React", "Machine Learning"]
