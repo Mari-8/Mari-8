@@ -17,11 +17,11 @@ bread_and_butter: [
 
 !WIP!
 
-largest_interests:
-current_focus:
-next_focus:
-hobbies:
+biggest_interests: ["Continuous Learning", "New Technology", "Advances in Space and Science", "Fitness"]
+current_focus: ["Ruby on Rails", "Computer Science"]
+next_focus: ["JavaScript", "React", "Machine Learning"]
 ```
+
 <div align="center">
 
 ![Mari's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mari-8&show_icons=true&theme=dark&include_all_commits=true&count_private=true&range=all_time&hide=contribs,issues)
@@ -29,20 +29,11 @@ hobbies:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mari-8&layout=compact)](https://github.com/Mari-8/github-readme-stats)
 
 </div>
+
 Full stack software engineer with a passion for creation. My favorite thing about my work/study is the freedom to build things from the ground up. 
 I have a strong foundation in Ruby, Rails, Javascript, HTML/CSS, and React and I plan to grow that list continuously over the course of my career. 
 I love meeting new people, and working/learning with other developers. I believe success in life stems from a strong desire to learn throughout life, be kind to others, and strive to be 1% better every day.
 
-## Projects
-
-**BookClub** |[repo](https://github.com/Mari-8/BookClub/tree/master)|  
-A personal application for tracking books, personalizing their categorization, and hosting/joining discussions.
-
-**ChandlerTrack** |[repo](https://github.com/Mari-8/ChandlerTrack/tree/master)|    
-A versatile candle-making dashboard for any chandler to track recipes, inventory lists, and notes.
-
-**LifeRoute** |[repo](https://github.com/Mari-8/BookClub/tree/master)|    
-A personal development tool for setting goals, and the routines and habits to achieve them.
 
 ## Get in touch
 
