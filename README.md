@@ -32,7 +32,6 @@ Full stack software engineer with a passion for creation. My favorite thing abou
 I have a strong foundation in Ruby, Rails, Javascript, HTML/CSS, and React and I plan to grow that list continuously over the course of my career. 
 I love meeting new people, and working/learning with other developers. I believe success in life stems from a strong desire to learn throughout life, be kind to others, and strive to be 1% better every day.
 
-
 ## Get in touch
 
 **LinkedIn** ~ https://www.linkedin.com/in/ryanaltimari/
