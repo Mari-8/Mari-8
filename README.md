@@ -25,6 +25,8 @@ hobbies:
 
 ![Mari's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mari-8&show_icons=true&theme=dark&include_all_commits=true&count_private=true&range=all_time&hide=contribs,issues)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mari-8&layout=compact)](https://github.com/Mari-8/github-readme-stats)
+
 
 Full stack software engineer with a passion for creation. My favorite thing about my work/study is the freedom to build things from the ground up. 
 I have a strong foundation in Ruby, Rails, Javascript, HTML/CSS, and React and I plan to grow that list continuously over the course of my career. 
