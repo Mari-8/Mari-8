@@ -3,7 +3,7 @@
 my_name: Ryan Altimari
 location: Nashville, TN
 born_then_raised: { Phillidelphia => Tennessee }
-current_position: Engineer 1
+current_position: Engineer II
 company: Ramsey Solutions
 education: ["Self Taught", "Full-Stack Bootcamp", "Investment Fund Program"]
 years_of_experience: 2
@@ -12,10 +12,11 @@ bread_and_butter: [
   "Ruby",
   "Rails",
   "Javascript",
+  "nextJs",
   "HTML/CSS"
 ]
 
-biggest_interests: ["Continuous Learning", "New Technology", "Advances in Space and Science", "Fitness"]
+biggest_interests: ["Continuous Learning", "New Technology", "Space and Science", "Fitness"]
 current_focus: ["Ruby on Rails", "Computer Science"]
 next_focus: ["JavaScript", "React", "Machine Learning"]
 ```
