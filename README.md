@@ -36,5 +36,3 @@ I love meeting new people, and working/learning with other developers. I believe
 ## Get in touch
 
 **LinkedIn** ~ https://www.linkedin.com/in/ryanaltimari/
-
-**Instagram** ~ @ryanaltimari
